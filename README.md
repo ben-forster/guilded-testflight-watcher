@@ -2,7 +2,7 @@
 
 Very basic Node.js script that sends webhook data when a testflight link is available.
 
-This script refreshes the invites every 30 seconds and doesn't require a discord bot account.
+This script refreshes the invites every 30 seconds and doesn't require a Guilded bot account.
 
 This repo is not maintained and the script itself was written in under one hour, feel free to enhance it on your own.
 
