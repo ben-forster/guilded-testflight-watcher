@@ -1,4 +1,4 @@
-# Discord Testflight Programs watcher
+# Guilded Testflight Programs watcher
 
 Very basic Node.js script that sends webhook data when a testflight link is available.
 
@@ -25,3 +25,7 @@ Once `settings.json` is changed, just use `node index.js` to execute the script.
 ## Beta Programs
 
 If you want other cool beta programs to watch over, this repo lists them <https://github.com/pluwen/awesome-testflight-link>
+
+## Original Project
+
+<https://github.com/alecs297/discord-testflight-watcher>
